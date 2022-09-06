@@ -1,0 +1,12 @@
+North.ClassLib çalışan kısım North.UserUI test için oluşturulşan kısımdır.
+
+Çağırma şekli
+
+			ConvertC convert = new ConvertC();
+            convert.GeneratePDF(convert.RenderXMLData(
+                tam dosya yolu(Xlst) , // main.xlst tlst(Xml)  yol
+                tam dosya yolu(xml) //  try.xml tam()xml yol
+                ));
+
+            MailC sendMail = new MailC();
+            sendMail.sendMail("result.pdf", UserNameEX, UserMailEX, mailSubjectEX, mailContainerEX);

@@ -1,0 +1,9 @@
+C:\Users\90545\source\repos\North\North.ClassLib\bin\Debug\netcoreapp2.1\North.ClassLib.deps.json
+C:\Users\90545\source\repos\North\North.ClassLib\bin\Debug\netcoreapp2.1\North.ClassLib.dll
+C:\Users\90545\source\repos\North\North.ClassLib\bin\Debug\netcoreapp2.1\North.ClassLib.pdb
+C:\Users\90545\source\repos\North\North.ClassLib\obj\Debug\netcoreapp2.1\North.ClassLib.csprojAssemblyReference.cache
+C:\Users\90545\source\repos\North\North.ClassLib\obj\Debug\netcoreapp2.1\North.ClassLib.AssemblyInfoInputs.cache
+C:\Users\90545\source\repos\North\North.ClassLib\obj\Debug\netcoreapp2.1\North.ClassLib.AssemblyInfo.cs
+C:\Users\90545\source\repos\North\North.ClassLib\obj\Debug\netcoreapp2.1\North.ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\90545\source\repos\North\North.ClassLib\obj\Debug\netcoreapp2.1\North.ClassLib.dll
+C:\Users\90545\source\repos\North\North.ClassLib\obj\Debug\netcoreapp2.1\North.ClassLib.pdb
